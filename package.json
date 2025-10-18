@@ -1,0 +1,20 @@
+{
+  "name": "focal_x_nodejs_task_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RimaKi/Focal_X_NodeJs_Task_6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RimaKi/Focal_X_NodeJs_Task_6/issues"
+  },
+  "homepage": "https://github.com/RimaKi/Focal_X_NodeJs_Task_6#readme"
+}
